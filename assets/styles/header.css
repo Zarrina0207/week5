@@ -1,0 +1,110 @@
+header {
+
+}
+.container {
+    max-width: 1200px;
+    margin: 65px 80px;
+}
+* {
+    box-sizing: border-box;
+}
+
+html {}
+.display {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+   .menu {
+    margin-right: 20px;
+    text-decoration: none;
+    font-family: "Futura New";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #c3b9b5;
+   }
+   a.menu:hover {
+    color: aliceblue;
+   }
+   .place {
+    display: flex;
+   }
+   .navigation {
+    text-decoration: none;
+    font-family: "Futura New";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: orange;
+   }
+   section {
+    max-width: 645px;
+   }
+   .text {
+    position: absolute;
+    width: 645px;
+    height: 330px;
+    left: 350px;
+    top: 230px;
+   }
+   h1 {
+    font-size: 80px;
+    line-height: 90px;
+    font-style: normal;
+    font-weight: 400;
+    color: #080606;
+   }
+   button:hover {
+    text-decoration: underline;
+   }
+   button {
+    position: absolute;
+    width: 280px;
+    height: 70px;
+    radius: 30px;
+    top: 530px;
+    left: 350px;
+    font-family: Futura New;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 20px;
+    color: azure;
+    background: #FFC59E;
+    border-radius: 20px;
+    border: none;
+   }
+   .picture {
+    margin-left: 920px;
+   }
+    .aside {
+    position: absolute;
+    width: 40px;
+    height: 490px;
+    left: 110px;
+    top: 200px;
+    }
+    .apps {
+    position: absolute;
+    width: 310px;
+    height: 40px;
+    left: 415px;
+    top: 650px;
+    }
+    .contacts {
+    position: absolute;
+    width: 211px;
+    height: 30px;
+    right: 79px;
+    top: 670px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #59443F;
+    }
+    
+   
+   
